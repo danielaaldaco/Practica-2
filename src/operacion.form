@@ -40,7 +40,7 @@
         </constraints>
         <properties/>
       </component>
-      <component id="c6eab" class="javax.swing.JButton" binding="sumarButton" default-binding="true">
+      <component id="c6eab" class="javax.swing.JButton" binding="btnSuma">
         <constraints>
           <grid row="2" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
@@ -48,7 +48,7 @@
           <text value="Sumar"/>
         </properties>
       </component>
-      <component id="bb1cc" class="javax.swing.JButton" binding="restarButton" default-binding="true">
+      <component id="bb1cc" class="javax.swing.JButton" binding="btnResta">
         <constraints>
           <grid row="3" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
@@ -56,7 +56,7 @@
           <text value="Restar"/>
         </properties>
       </component>
-      <component id="8bc78" class="javax.swing.JButton" binding="multiplicarButton" default-binding="true">
+      <component id="8bc78" class="javax.swing.JButton" binding="btnMultiplicar">
         <constraints>
           <grid row="4" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
@@ -64,7 +64,7 @@
           <text value="Multiplicar"/>
         </properties>
       </component>
-      <component id="24b44" class="javax.swing.JButton" binding="dividirButton" default-binding="true">
+      <component id="24b44" class="javax.swing.JButton" binding="btnDividir">
         <constraints>
           <grid row="5" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
